@@ -1,0 +1,1065 @@
+G-box	Antirrhinum majus	cis-acting regulatory element involved in light responsiveness		
+	site	part of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	X03710	CACGTA
+H-box module	Antirrhinum majus	part of a light responsive element		
+	site	part of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	X03710	AGCACCATACTTGGTA
+TATA-box	Antirrhinum majus	core promoter element around -30 of transcription start		
+	site	part of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	X03710	TATAAATT
+Unnamed__1	Antirrhinum majus	CG-1 factor binding site		
+	consensus		A. thaliana +	catgtCACGTGccaactg
+Chs-CMA3	Antirrhinum majus	part of a light responsive element	Chs Conserved DNA Module Array 3	
+	consensus	motif of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	?	CACGT(G/a)NNNNNNA(G/c)CTACC(A/c)TACTTNNTANNNNNNNNNNNNTATAAA(T/a)(T/a)
+AAGAA-motif	Avena sativa			
+	site		phyA3	GAAAGAA
+	site		phyA3	gGTAAGAA
+	site		phyA3	gGTAAAGAAA
+CATTAT-motif	Avena sativa			
+	site		phyA3	GTCATTATCGG
+CTAG-motif	Avena sativa			
+	site		phyA3	ACTAGCAGAA
+GCCCG-motif	Avena sativa	?		
+	site		phyA3	CACGGGTCGATCAGCCCG
+GT1-motif	Avena sativa	light responsive element		
+	site		phyA3	GGTTAAT
+	site		phyA3	GGTTAAT
+	site		phyA3	ACAGAAGTAGGTTAATCAATTTCAGGTTAATCAAAGTGGAGATCGGAAAG
+PE1	Avena sativa L. vc. Gary	enhancer	Positive Element 1	
+	consensus		5d dark oat	GGAAATAGCAAATGTTAAAAATA
+PE3	Avena sativa L. vc. Gary	enhancer	Positive Element 3	
+	consensus		5d dark oat	CCCATCCGCGCCGGTCA
+Prolamin-box	Avena sativa	involved in activation of zein gene during endosperm development		
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	J05486	tgacaTGTAAAGcgaaa
+RE1	Avena sativa L. vc. Gary	repressing element	Repressor Element 1	
+	consensus		5d dark oat	GGGCGCGGAACAAGGATCGGCGCGCCACGCC
+TATA-box	Avena sativa	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	phyA3	TATATTTATATTT
+ABRE	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness	ACGT-containing ABA Response Element	
+	site	cis-acting element involved in the abscisic acid (ABA) responsiveness on the rd29B gene	D13044	ACGTGGC
+	site	cis-acting element involved in the abscisic acid (ABA) responsiveness on the rd29B gene	D13044	TACGGTC
+	site	cis-acting element involved in the abscisic acid (ABA) responsiveness on the rd29A gene	D13044	TACGTGTC
+	site	potential cis-acting element involved in the abscisic acid (ABA) and drought responsiveness of cor15a	U01377	CACGTG
+	site	potential cis-acting element involved in the abscisic acid (ABA) and drought responsiveness of cor15a	U01377	TACGTG
+AC-I	Arabidopsis thaliana		AC-I element	
+	site	element involved in negative regulation on phloem expression; and responsible for restricting the vascular expression to the xylem	X62747	GCTTACCTACCA
+AC-II	Arabidopsis thaliana		AC-II element	
+	site	element involved in negative regulation of phloem expression; and responsible for restricting the vascular expression to the xylem	X62747	TCAACCAACTCC
+ACA-motif	Arabidopsis thaliana	part of gapA in (gapA-CMA1) involved with light responsiveness		
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved with light responsiveness	L14743	AATCACAACCATA
+AE-box	Arabidopsis thaliana	part of a module for light response	Activating Element	
+	site	part of a system composed of 3 to 4 Gap-boxes and 2 AE-boxes; conferring light responsiveness	L14743	AGAAACAT
+	site	part of a system composed of 3 to 4 Gap-boxes and 2 AE-boxes; conferring light responsiveness	L14743	AGAAACAA
+	site	part of a system composed of 3 to 4 Gap-boxes and 2 AE-boxes; conferring light responsiveness	L14749	AGAAACTT
+	site	part of a system composed of 3 to 4 Gap-boxes and 2 AE-boxes; conferring light responsiveness	L14749	AGAAACTT
+ATC-motif	Arabidopsis thaliana	part of a conserved DNA module involved in light responsiveness		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved in light responsiveness	A86720	GCCAATCC
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved in light responsiveness	L14743	AGCTATCCA
+ATCT-motif	Arabidopsis thaliana	part of a conserved DNA module involved in light responsiveness	LAMP-like motif	
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved in light responsiveness	L14743	AATCTAATCT
+Box I	Arabidopsis thaliana	part of a light responsive element		
+	site	part of a LRE in a chs gene	M20308	GTCCATCTAACCTACCAC
+Box II	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the gapB conserved DNA module array (gapB-CMA1) involved with light responsiveness	L14749	ACATAATAGCCACATATT
+	site	part of a LRE in a chs gene (chs-Unit 1) - activation trough a Ca-gradient; but repressed by a high concentration of cGMP	M20308	ACACGTAGA
+C-box	Arabidopsis thaliana	cis-acting regulatory element involved in light responsiveness		
+	site	light response element; palindromic motif	X98080	CTGACGTCAG
+C-repeat/DRE	Arabidopsis thaliana	regulatory element involved in cold- and dehydration-responsiveness	C-repeat/Dehydration Responsive Element	
+	site	regulatory element involved in cold- and dehydration-responsiveness	L22568	TATACTACCGACATGAGTTCCAAAAAGC
+	site	cis-acting regulatory element involved in cold responsiveness	U01377	TGGCCGAC
+	consensus	activator element involved in a response to cold and dehydration	?	gatcANT(T/a)NA(T/C)(G/T)(G/A)CCGAC(C/A)T(G/c)N(T/G)TT(T/C)(T/C)
+CAAT-box	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions in the rd29A gene	D13044	CCAAT
+	site	common cis-acting element in promoter and enhancer regions in the rd29B gene	D13044	CCAAT
+	site	common cis-acting element in promoter and enhancer regions	M17132	gGCAAT
+	site	common cis-acting element in promoter and enhancer regions	X84728	CAACCAACTCC
+	site	common cis-acting element at about 50bp from the TATA-box	X86454	ctCCAATag
+	site	common cis-acting element in promoter and enhancer regions	X98080	CCCAATTT
+CAG-motif	Arabidopsis thaliana	part of a light response element		
+	site	part of the gapAB conserved DNA module array (gapAB-CMA2) involved with light responsiveness	L14743	GAAAGGCAGAC
+CAT-box	Arabidopsis thaliana	cis-acting regulatory element related to meristem expression		
+	consensus	preferential expression in meristems of the histon H4 (H4A748) promoter	roots;flower buds; leaves	GCCACT
+CCGTCC-box	Arabidopsis thaliana	cis-acting regulatory element related to meristem specific activation		
+	consensus	related to meristem specific activation of a histone H4 (H4A748) gene	root; flower buds; leaves	CCGTCC
+CellCycle-1b	Arabidopsis thaliana	transactivator in the cell-cycle dependent transcription		
+	site	transactivator in the cell-cycle dependent transcription	M25268	acagaggTGACGTggcatca
+	consensus		rec(wheat-E.coli)	acagaggTGACGTggcatca
+DRE	Arabidopsis thaliana	cis-acting element involved in dehydration, low-temp, salt stresses	Dehydration-Responsive-Element	
+	site	cis-acting element involved in the induction of rd29A in response to dehydration and low-temperature or high-salt stress core sequence in the 20-bp d	D13044	TACCGACAT
+	site	cis-acting element involved in the induction of rd29A in response to dehydration and low-temperature or high-salt stress core sequence in the 20-bp d	D13044	TACCGACAT
+G-box	Arabidopsis thaliana	cis-acting regulatory element involved in light responsiveness		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA14) involved in light responsiveness	A86720	TCCTCGTGGCA
+	site	cis-acting regulatory sequence on kin1 gene (X51474)	L21929	CACGTG
+	site	cis-acting regulatory element on kin2 gene (X62281or cor6.6 X55053)	L21929	CACGTG
+	site	cis-acting regulatory element	M12196	GCCACGTGGA
+	site	part of the sbp conserved DNA module array (sbp-CMA1) involved in light responsiveness	S74719	GCCACGTGTCACTC
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	X13611	TCCACGTGGCATT
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X51370	GCCACGTGGTA
+	consensus		rec(Arabidopsis-E.coli)	CTTCCACGTGGCA
+	consensus	G-box alone gives a higher activity in light-grown seedling than in dark-grown siblings. G-box with GATA-motif gives: a 4- to 8-fold higher activity in the light; red light activates and far red inactivates a promoter and only activity in sepals and sili		TGACACGTGGCA
+GA-motif	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	X13611	ATAGATAA
+GAG-motif	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved in light responsiveness	A86720	AGAGAGT
+GATA-motif	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X51370	GATAGGA
+	consensus	GATA-motifs alone shows a higher activity in light-grown seedlings G-motif with GATA-motif or Z-motif with GATA-motif gives a 4- to 8-fold higher activity in the light; light inhibits activity in roots but promotes it in the cotyledons. GT1-motif with G		AAGATAAGATT
+GCC box	Arabidopsis thaliana		pathogen respons	
+	site	elicitation; wounding and pathogen responsievness	synthetic	AGCCGCC
+GT1-motif	Arabidopsis thaliana	light responsive element		
+	site	light response element; binding site for GT1 nuclear protein factor	X98080	GGTTAA
+	site	light response element; binding site for GT1 nuclear protein factor	X98080	GGTTAA
+	site	light response element; binding site for GT1 nuclear protein factor	X98080	GGTTAA
+	consensus	Light responsive element (LRE); no light response if no second LRE present One GT1-motif in the CaMV 35S promoter gives higher activity in the light. Two GT1-motifs present in a promoter gives a higher activity in the dark than in the light. GT1-motif		TGTGTGGTTAATATG
+GTGGC-motif	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved in light responsiveness	A86720	CATCGTGTGGC
+Gap-box	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the gapAB conserved DNA module array (gapAB-CMA2) involved with light responsiveness	L14743	AAATGGAGA
+	consensus	multiple copies of this consensus can confer light responsiveness when linked; at the 3 prime side; to 2 AE-boxes. (in GapA and GapB genes)	?	CAAATGAA(A/G)A
+HD-Zip 1	Arabidopsis thaliana	element involved in differentiation of the palisade mesophyll cells	Athb-1 homeodomain-leucine zipper	
+	consensus	for regulatory mechanisms that control development		CAAT(A/T)ATTG
+HD-Zip 2	Arabidopsis thaliana	element involved in the control of leaf morphology development	Athb-2 homeodomain-leucine zipper	
+	consensus	for fundamental regulatory mechanisms that control development leaf morphology (in maize)		CAAT(G/C)ATTG
+HD-Zip 3	Arabidopsis thaliana	protein binding site	Homeodomain-leucine zipper 3	
+	consensus	DNA binding domain		GTAAT(G/C)ATTAC
+I-box	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the gapAB conserved DNA module array (gapAB-CMA1) involved with light responsiveness	L14743	ccttatcct
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	X13611	GATAAGATT
+	site		X13611	GATAAGGGT
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X51370	acGATAATC
+JERE	Arabidopsis thaliana		jasmonate ethylen responsive element	
+	site	elicitation; wounding and pathogen responsievness	synthetic	AGACCGCC
+LAMP element	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the gapB conserved DNA module array (gapB-CMA1) involved with light responsiveness	L14749	ACAGAATCTTATCC
+MBS	Arabidopsis thaliana	MYB binding site involved in drought-inducibility	MYB Binding Site	
+	site	Myb binding site on the rd29B gene	D13044	CAACTG
+	consensus	drought-inducibility	leaf protoplasts	TAACTG
+NON-box	Arabidopsis thaliana	cis-acting regulatory element related to meristem specific activation	Nonamer-box	
+	consensus	related to meristem specific activation of a histone H4 (H4A748) gene	root; flower buds; leaves	AGATCGACG
+OBP-1 site	Arabidopsis thaliana	cis-acting regulatory element	Site of the OBF Binding Protein	
+	site	significantly increases the ability of OBF proteins to bind the ocs elements.	X95295	TACACTTTTGG
+OCT	Arabidopsis thaliana	cis-acting regulatory element related to meristem specific activation	Octamer	
+	consensus	related to meristem specific activation of a histone H4 (H4A748) gene	root; flower buds; leaves	CGCGGATC
+TATA-box	Arabidopsis thaliana	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	M92353	TATA
+	site	core promoter element around -30 of transcription start	M92354	TATATA
+	site	core promoter element around -30 of transcription start	X51474	TATAAA
+	site	core promoter element around -30 of transcription start	X60377	TATATATA
+	site	core promoter element around -30 of transcription start	X62281	TATAAATATAAA
+	site	core promoter element around -30 of transcription start	X84728	TATTTAAA
+	site	core promoter element around -30 of transcription start	X86454	tcTATATAtt
+	site	core promoter element around -30 of transcription start	X98080	TAAAGATT
+	site	core promoter element around -30 of transcription start	Z15058	TAAAAATAA
+	site	core promoter element around -30 of transcription start	AB006777	TATATAA
+	site	core promoter element around -30 of transcription start	AB006778	TATATAA
+	site	core promoter element around -30 of transcription start	AJ003135	TATA
+	site	core promoter element around -30 of transcription start in the rd29A gene	D13044	TATAA
+	site	core promoter element around -30 of transcription start in the rd29B gene	D13044	TATAA
+	site	core promoter element around -30 of transcription start	X95295	TATAAAA
+	site	core promoter element around -30 of transcription start	M17132	ccTATAAAaa
+	site	core promoter element around -30 of transcription start	L34684	taTATAAAgg
+	site	core promoter element around -30 of transcription start	M12196	taTATAAAtc
+	consensus	controlling level of transcription and determining the location and number of transcription start sites.		TATAAA
+TCT-motif	Arabidopsis thaliana	part of a light responsive element		
+	site	part of the gapB conserved DNA module array (gapB-CMA1) involved with light responsiveness	L14749	TCTTAC
+Unnamed__1	Arabidopsis thaliana	TEF 1 factor binding site		
+	consensus		Arabidopsis	ACAGGGGCATAATGGTAATTTAAA
+Unnamed__2	Arabidopsis thaliana			
+	consensus		Arabidopsis	
+Unnamed__4	Arabidopsis thaliana	GBF3 factor binding site		
+	consensus		rec(Arabidopsis-ret lys)	agaaatgCCACGTGGacgaatac
+W box	Arabidopsis thaliana		wounding and pathogen respons	
+	site	elicitation; wounding and pathogen responsievness. Binds WRKY type transcription factors	Synthetic	TTGACC
+Z-motif	Arabidopsis thaliana	element conferring higher activity in dark-grown	Z-DNA forming sequence	
+	consensus	Gives a higher activity in the dark-grown seedlings Z-motif with GATA-motif: 4- to 8-fold higher activity in light; activated with red light; inactivated with far red light; light inhibits the activity in roots and promotes it in the cotyledons; in adult		ATCTATTCGTATACGTGTCAC
+As1	Arabidopsis thaliana	cis-acting regulatory element involved in the root-specific expression	Activator sequence	
+	site	regulatory element involved in the root-specific expression	D13044	TGACGTCA
+box S	Arabidopsis thaliana		wounding and pathogen respons	
+	site	elicitation; wounding and pathogen responsievness	synthetic	AGCCACC
+Chs-unit 1	Arabidopsis thaliana	part of a light responsive element		
+	site	LRE; sequence consisting of three modules; enough to makes light inducing possible (Box II + extended Box I= module1 + module2); present in all CHS g	M20308	ACACGTAGATCTTCATCTGCCCGTCCATCTAACCTACCACAC
+Chs-unit 1 m1	Arabidopsis thaliana	part of a light responsive element	Chs-unit 1 module 1	
+	site	part of the chs-Unit 1 motif involved with light responsiveness	M20308	ACCTACCACAC
+Chs-unit 1 m2	Arabidopsis thaliana	part of a light responsive element	Chs-unit 1 module 2	
+	site	part of the chs-Unit 1 motif involved with light responsiveness	M20308	TCATCTGCCCGTCCATC
+DOCT	Arabidopsis thaliana	cis-acting regulatory element related to meristem specific activation	Degenerated OCTamer	
+	consensus	related to the meristem specific activation of a histone H4 (H4A748) gene	root; flower buds; leaves	CaCGGATC
+Ocs-element	Arabidopsis thaliana	element involved in auxin, salicylic acid and oxidative stresses		
+	site	induction by auxin and salicylic acid as response to oxidative stress and detoxification of xenobiotics	X95295	ATCTTATGTCATTGATGACGACCTCC
+Sbp-CMA1a	Arabidopsis thaliana	part of a light responsive element	Sbp Conserved DNA Module Array 1(part a)	
+	site	part of the sbp conserved DNA module array (sbp-CMA1) involved in light responsiveness	S74719	TCATATCTTCTTCAG
+Sbp-CMA1c	Arabidopsis thaliana	part of a light responsive element	Sbp Conserved DNA Module Array 1(part c)	
+	site	part of the sbp conserved DNA module array (sbp-CMA1) involved in light responsiveness	S74719	CTTTATCTCTTCCA
+TATA-box	Ac	core promoter element around -30 of transcription start	TATA-box of the Ac/Ds transposable element	
+	site	core promoter element around -30 of transcription start	Ac	TATAAAT
+CAAT-box	Brassica juncea	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	X67833	TGCAAATCT
+G-box	Brassica juncea	cis-acting regulatory element involved in light responsiveness		
+	site	involved in light responsiveness	X67833	CACGTG
+TATA-box	Brassica juncea	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	X67833	TATAAAT
+ABRE	Brassica napus	cis-acting element involved in the abscisic acid responsiveness	ACGT-containing ABA Response Element	
+	site	ABA (abscisic acid) induction; cis-acting regulatory element	X61937	ACACGTGGC
+G-box	Brassica napus	cis-acting regulatory element involved in light responsiveness		
+	site	bZIP transcription factor binding site	U27107	CCACGTAA
+	site	bZIP transcription factor binding site	U27107	ACACGTGT
+	site	bZIP transcription factor binding site	U27107	ACACGTGT
+	site	bZIP transcription factor binding site	U27107	TGACGTGG
+	site	cis-acting regulatory sequence	X61937	ACACGTGGC
+	site	cis-acting regulatory element	X75334	CACGTGG
+TATA-box	Brassica napus	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	U27107	ATTATA
+	site	core promoter element around -30 of transcription start	X61937	TATATA
+	site	core promoter element around -30 of transcription start	X61937	ATATAT
+	site	core promoter element around -30 of transcription start	X75334	CACTATATAAAG
+Box-1	Brassica oleracea	MeJA-responsive element		
+	site	MeJA-responsive element	X98521	TGGAGGCTGGTTGGAGA
+CAAT-box	Brassica oleracea	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	X98521	CCAAT
+	site	common cis-acting element in promoter and enhancer regions	Y13535	CCAAT
+ELI-box3	Brassica oleracea	elicitor-responsive element	Elicitor box 3	
+	site	elicitor-responsive element	X98521	AAACCAATT
+G-box	Brassica oleracea	cis-acting regulatory element involved in light responsiveness		
+	site	cis-acting regulatory element	X98521	TAAACGTG
+	site	cis-acting promoter element	X98521	TAACACGTAG
+GARE-motif	Brassica oleracea	gibberellin-responsive element		
+	site	gibberellin-responsive element	X98521	AAACAGA
+	site	gibberellin-responsive element	X98521	TCTGTTG
+HSE	Brassica oleracea	cis-acting element involved in heat stress responsiveness	Heat Shock Element	
+	site	heat shock element	X98521	AAAAAATTTC
+	site	heat shock element	X98521	ATTCCTTTCTGAAACGTTC
+	site	heat shock element	X98521	AGAAAATTCG
+	site	heat shock element	X98521	TAAAAACTTTAGAAACTCT
+	site	heat shock element	X98521	GAAGAAAATGTTTTAAAAACT
+TATA-box	Brassica oleracea	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	X70333	TATAAAT
+	site	core promoter element around -30 of transcription start	X98521	ATATAAT
+	site	core promoter element around -30 of transcription start	Y13535	ATATAA
+TCA-element	Brassica oleracea	cis-acting element involved in salicylic acid responsiveness		
+	site	salicylic acid response element	X98521	CAGAAAAGGA
+	site	salicylic acid response element	X98521	TCAGAAGAGG
+	site	salicylic acid response element	X98521	GAGAAGAATA
+TGA-1	Brassica oleracea	auxin-responsive element		
+	site	auxin-responsive element	X98521	AACGAC
+WUN-motif	Brassica oleracea	wound-responsive element		
+	site	wound-responsive element	X98521	TCATTACGAA
+	site	wound-responsive element	X98521	AAATTTCCT
+CAAT-box	Brassica rapa	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	Y13108	CAAAT
+G-box	Brassica rapa	cis-acting regulatory element involved in light responsiveness		
+	site	involved in light responsiveness	Y13108	CACGTG
+TATA-box	Brassica rapa	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	Y13108	TATAAAT
+G-box	Capsicum annuum	cis-acting regulatory element involved in light responsiveness		
+	site	involved in light responsiveness	AJ005588	CACGTG
+Prolamin-box	Coix lachryma-jobi	involved in activation of zein gene during endosperm development		
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X63113	acgtaTGTAAAGtgaa
+G-box	Catharanthus roseus	cis-acting regulatory element involved in light responsiveness		
+	site	cis-acting regulatory element involved in light and stress responses	Y10182	CACGTG
+JERE	Catharanthus roseus	jasmonate and elicitor-responsive element	Jasmonate and elicitor-responsive element	
+	site	jasmonate and elicitor-responsive element; contained a GCC-box-like similar to an ethylene responsive element; binding site of ORCA2; an AP2-domain pr	Y10182	CTCTTAGACCGCCTTCTTTGAAAG
+MSA-like	Catharanthus roseus	cis-acting element involved in cell cycle regulation	MSA-like	
+	site	regulatory element for cell cycle during M phase	D86388	CCCAACGGT
+	site	regulatory element for cell cycle	D86388	TCCAACGGT
+	site	regulation of cell cycle	D86388	TGCAACGGC
+	site	regulation of cell cycle	D86388	TCAAACGGT
+	consensus	Regulation of cell cycle Expressed during the late G2 and M phases		(T/C)C(T/C)AACGG(T/C)(T/C)A
+TATA-box	Catharanthus roseus	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	Y10182	TATA
+CAAT-box	Daucus carota	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	X75806	AGCTCAATTTCA
+ERE	Dianthus caryophyllus	ethylene-responsive element	Ethylene-Responsive Element	
+	site	ethylene-responsive element probably involved in petal senescence	L05915	ATTTCAAA
+G-box	Daucus carota	cis-acting regulatory element involved in light responsiveness		
+	site	part of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	D16255	CACGTG
+	site	involved in light responsiveness	D16255	TACGTG
+GATA-box	Daucus carota	responsive element to auxin-free medium	GATA factor binding element	
+	site	responsive element to auxin-free medium where somatic embryo development occurs	X75806	TTACCACAGAAACTC
+H-box module	Daucus carota	part of a light responsive element		
+	site	part of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	D16255	AGCTACCATACTTATTA
+TATA-box	Daucus carota	core promoter element around -30 of transcription start		
+	site	part of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	D16255	TATAAATA
+	site	core promoter element around -30 of transcription start	X75806	ccTATAAATT
+Unnamed__1	Daucus carota			
+	consensus			
+Chs-CMA2a	Daucus carota	part of a light responsive element	Chs Conserved DNA Module Array 2(part a)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	D16255	TTACTTAA
+Chs-CMA2b	Daucus carota	part of a light responsive element	Chs Conserved DNA Module Array 2(part b)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	D16255	ATTGCAACTCAA
+Chs-CMA2c	Daucus carota	part of a light responsive element	Chs Conserved DNA Module Array 2(part c)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	D16255	ATATACGTGAAGG
+CGT-motif	Flaveria trinervia	part of a light responsive element		
+	site	part of the ppdk conserved DNA module array (ppdk-CMA2) involved with light responsiveness	X79095	CCTGAACGC
+GGA-motif	Flaveria trinervia	part of a light responsive element		
+	site	part of the ppdk conserved DNA module array (ppdk-CMA2) involved with light responsiveness	X79095	GGAGACGCTTTGT
+I-box	Flaveria trinervia	part of a light responsive element		
+	site	part of the ppdk conserved DNA module array (ppdk-CMA2) involved in light responsiveness	X79095	GATATGG
+	site	part of the ppdk conserved DNA module array (ppdk-CMA2) involved with light responsiveness	X79095	cCATATCCAAT
+G-box	Gossypium hirsutum	cis-acting regulatory element involved in light responsiveness		
+	site	part of the rbcS-CMA4 motif involved with light responsiveness	X54091	TTCCACGTGGCA
+I-box	Gossypium hirsutum	part of a light responsive element		
+	site	part of the conserved DNA module array (rbcS-CMA4) involved in light responsiveness	X54091	AAGATAAGGCT
+TGG-motif	Gossypium hirsutum	part of a light responsive element		
+	site	part of the rbcS-CMA4 involved in light responsiveness	X54091	GGTTGCCA
+AT-rich sequence	Glycine max	binding site of AT-rich DNA binding protein (ATBP-1)		
+	site	cis-acting regulatory element binding site of AT-rich DNA binding protein (ATBP-1)	U22971	ATAGAAATCAA
+AuxRE	Glycine max	part of an auxin-responsive element	Auxin-responsive element	
+	site	part of an auxin-responsive element	X60033	TGTCTCctcAATAAG
+	site	part of an auxin-responsive element	X60033	TGTCTCAATAAG
+CAAT-box	Glycine max	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	Z26331	CAATT
+G-box	Glycine max	cis-acting regulatory element involved in light responsiveness		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	M16889	tcCACGTGTCACT
+GA-motif	Glycine max	part of a light responsive element		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	M16889	AAGGAAGA
+H-box module	Glycine max	part of a light responsive element		
+	site	part of the chs conserved DNA module array (chs-CMA3) involved with light responsiveness	X16184	ACCTACCCTACTTCCTA
+I-box	Glycine max	part of a light responsive element		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	M16889	GATAAGATA
+Nodule-site1	Glycine max	nodule specific factor binding site	Nodule specific site 1	
+	consensus		nodule	GATATATTAATATTTTATTTTATA
+Nodule-site2	Glycine max	nodule specific factor binding site	Nodule specific site2	
+	consensus		nodule	CTTAAATTATTTATTT
+TATA-box	Glycine max	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	X16184	TATATA
+	site	core promoter element around -30 of transcription start	X16185	TATATA
+	site	core promoter element around -30 of transcription start	X16186	TATATA
+	site	core promoter element around -30 of transcription start	Z26331	TAATA
+TGA-box	Glycine max	part of an auxin-responsive element	TGA-box or Hex-like elements	
+	site	part of an auxin-responsive element strong binding site for bZIP proteins involved in the elevation of GH3 promoter auxin inductibility	X60033	TGACGTGGC
+	site	part of an auxin-responsive element strong binding site for bZIP proteins involved in the elevation of GH3 promoter auxin inductibility	X60033	TGACGTAA
+Unnamed__1	Glycine max	60K protein binding site		
+	consensus		seeds	GAATTTAATTAA
+Unnamed__2	Glycine max			
+	consensus		seeds	ATTAAATTTTAAATT
+Unnamed__5	Glycine max cv. Provar	SEF1 factor binding site		
+	consensus		seeds	TGTAATAATATATTTATATT
+Unnamed__6	Glycine max cv. Provar	SEF4 factor binding site		
+	consensus		seeds	GCATTTTTATCA
+Unnamed__7	Glycine max cv. Provar			
+	consensus		seeds	TTTCTTGCGTTTTTTGGCATAT
+Unnamed__8	Glycine max cv. Provar			
+	consensus		seeds	CATTTTTGT
+Alpha4	Glycine max cv. Provar	SEF3 factor binding site		
+	consensus		seeds	AACCCAtcatgagcccacacatttgttgtttctAACCCA
+ABRE	Helianthus annuus	cis-acting element involved in the abscisic acid responsiveness	ACGT-containing ABA Response Element	
+	site	regulatory element involved in ABA responsiveness	AJ224116	CACGTG
+	site	regulatory element involved in ABA responsiveness	AJ224116	CACGTG
+G-box	Helianthus annuus	cis-acting regulatory element involved in light responsiveness		
+	site	cis-acting element involved in light responsiveness matched the consensus motif CACGTG found in dicot seed-storage proteins promoters	AJ224116	CACGTG
+	site	cis-acting element involved in light responsiveness matched the consensus motif CACGTG found in dicot seed-storage proteins promoters	AJ224116	CACGTG
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene or rbcS-CMA4	Y00431	TGACACGTGGCTCT
+GA-motif	Helianthus annuus	part of a light responsive element		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	Y00431	AAAGATGA
+HSE	Helianthus annuus	cis-acting element involved in heat stress responsiveness	Heat Shock Element	
+	site	heat shock element distal region cis-acting element involved in heat stress responsiveness	U46545	CTCTGGAACCTTTCAGAAATATC
+	site	heat shock element proximal region cis-acting element involved in heat stress and ABA responsiveness	U46545	TTCTTCAAGCTTCAAGACAATCCTAGAAATTAC
+	site	cis-acting element no responsive to heat stress noninducible by heat shock	Z95153	GATAAGTACAGAATATTTCAGAA
+I-box	Helianthus annuus	part of a light responsive element		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	Y00431	GATAAGATA
+	site	part of the conserved DNA module array involved in light responsiveness	Y00431	atGATAAGGTC
+RY-element	Helianthus annuus	cis-acting regulatory element involved in seed-specific regulation		
+	site	element involved in the seed-specific regulation	AJ224116	CATGCATG
+	site	element involved in the seed-specific regulation	AJ224116	CATGCATG
+TATA-box	Helianthus annuus	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	AJ224116	TATATA
+	site	core promoter element around -30 of transcription start	AJ224116	TATACA
+	site	core promoter element around -30 of transcription start	U46545	TATAAA
+	site	core promoter element around -30 of transcription start	Z95153	TATAAA
+TGG-motif	Helianthus annuus	part of a light responsive element		
+	site	part of a conserved DNA module array (rbcS-CMA4)	Y00431	TGGTGGCTA
+ABRE	Hordeum vulgare	cis-acting element involved in the abscisic acid responsiveness	ACGT-containing ABA Response Element	
+	site	cis-acting regulatory element not involved in ABA responsiveness of that gene	L19119	CCGCGTAGGC
+	site	cis-acting element involved in ABA responsiveness coupling with a CE2-like element and another ABRE	L19119	CGCACGTGTC
+	site	cis-acting element involved in ABA responsiveness coupling with a CE1-like element and another ABRE	L19119	GCCACGTACA
+	site	cis-acting regulatory element involved in ABA responsiveness (low effect)	X78205	CGTACGTGCA
+	site	cis-acting regulatory element involved in ABA responsiveness (strong effect)	X78205	CCTACGTGGC
+	site	cis-acting regulatory element involved in ABA responsiveness (strong effect)	X78205	GCAACGTGTC
+ATC-motif	Hordeum vulgare	part of a conserved DNA module involved in light responsiveness		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved with light responsiveness	M55449	GCCAATCC
+Box I	Hordeum vulgare	part of a light responsive element		
+	site	part of a LRE in a chs gene	X58339	GTCAATGGACCTAACCC
+Box II	Hordeum vulgare	part of a light responsive element		
+	site	part of a LRE in a chs gene	X58339	AGTCGTGGC
+C-box	Hordeum vulgare	cis-acting regulatory element involved in light responsiveness		
+	site	cis-acting regulatory element found in several ABA-inducible genes but not involved in ABA response	X78205	ACGAGCACCGCC
+CAAT-box	Hordeum vulgare	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	X78205	CAAT
+CCAAT-box	Hordeum vulgare	MYBHv1 binding site		
+	site	possible binding site of MYBHv1 which is in agreement with the consensus target sequence pyAAC(G;T)G of the animal MYB oncoproteins.	X58339	CAACGG
+CE1	Hordeum vulgare	cis-acting element associated to ABRE, involved in ABA responsiveness	Coupling Element 1	
+	site	coupling element with an ABRE (the closer one) involved in ABA responsiveness	L19119	TGCCACCGG
+CGTCA-motif	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness	complementary motif of TGACG	
+	site	cis-acting regulatory element involved in the MeJA-responsiveness; associated with its complementary sequence TGACG 15bp downstream (palindrome).	U83904	CGTCA
+G-box	Hordeum vulgare	cis-acting regulatory element involved in light responsiveness		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved in light responsiveness	AJ224116	GCCTTGTGTAG
+	site	promoter regulatory element involved in light responsiveness	U83904	CACGTG
+GAG-motif	Hordeum vulgare	part of a light responsive element		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved with light responsiveness	M55449	GGAGATG
+GTGGC-motif	Hordeum vulgare	part of a light responsive element		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved with light responsiveness	M55449	CAGCGTGTGGC
+LTR	Hordeum vulgare	cis-acting element involved in low-temperature responsiveness	Low Temperature Response	
+	site	involved in the low-temperature response	U63993	CCGAAA
+Prolamin-box	Hordeum vulgare			
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	M36378	tgagaTGTAAAGtgaat
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	M36941	tgtagTGTAAAGtaaaa
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X84368	tgtttTGCAAAGctcca
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X87232	tgacaTGTAAAGtgaat
+TATA-box	Hordeum vulgare	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	L19119	TATAAA
+	site	core promoter element around -30 of transcription start	U83904	TATAAA
+	site	core promoter element around -30 of transcription start	X78205	TATAAA
+TGACG-motif	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness		
+	site	cis-acting regulatory element involved in the MeJA-responsiveness (binding site of Arabidopsis bZIP protein TGA1a); associated with its complementary	U83904	TGACG
+Chs-CMA2a	Hordeum vulgare	part of a light responsive element	Chs Conserved DNA Module Array 2(part a)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	X58339	GCAATTCC
+Chs-CMA2b	Hordeum vulgare	part of a light responsive element	Chs Conserved DNA Module Array 2(part b)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	X58339	GAACCTACACAC
+Chs-CMA2c	Hordeum vulgare	part of a light responsive element	Chs Conserved DNA Module Array 2(part c)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	X58339	GAGCACGTGCAAC
+Chs-unit 1	Hordeum vulgare	part of a light responsive element		
+	site	LRE; sequence consisting of three modules; enough to make light inducing possible	X58339	AGTCGTGGCCATCCATCCTCCCGTCAATGGACCTAACCCGC
+Chs-unit 1 m1	Hordeum vulgare	part of a light responsive element	Chs-unit 1 module 1	
+	site	part of the chs-Unit 1 motif involved with light responsiveness	X58339	ACCTAACCCGC
+Chs-unit 1 m2	Hordeum vulgare	part of a light responsive element	Chs-unit 1 module 2	
+	site	part of the chs-Unit 1 motif involved with light responsiveness	X58339	CCATCCTCCCGTCAATG
+5UTR Py-rich stretch	Lycopersicon esculentum	cis-acting element conferring high transcription levels		
+	site	region in the 5primeUTR conferring high transcription levels without the need for other upstream cis elements except for a TATA-box	U68071	TTTCTCTCTCTCTC
+	site	region in the 5primeUTR conferring high transcription levels without the need for other upstream cis elements except for a TATA-box	U68072	TTTCTCTCCTCTTTTTCCTC
+	site	region in the 5primeUTR conferring high transcription levels without the need for other upstream cis elements except for a TATA-box	U68073	TTTCTTCTCT
+CAAT-box	Lycopersicon esculentum	common cis-acting element in promoter and enhancer regions		
+	site	common transcription site	L41253	ATTGG
+	site	common cis-acting element in promoter and enhancer regions	S44160	CAAT
+E4-ERE	Lycopersicon esculentum	ethylene-responsive element	E4 Ethylene Responsive Element	
+	site	ethylene responsive element	S44898	CACAAGTTTGTTTTTGTTTTTACTACCAACAA
+E4-TATA-box	Lycopersicon esculentum	core promoter element around -30 of transcription start	E4 flanking sequence of the TATA region	
+	site	positive response to ethylene in ripping fruit	S44898	ATCCATTTCTATATAAAGAAACATA
+F-box	Lycopersicon esculentum			
+	site		S44160	CTATTCTCATT
+G-box	Lycopersicon esculentum	cis-acting regulatory element involved in light responsiveness		
+	site	part of a LRE in a tomato rbcS gene	S44160	ACACGTGGCACC
+	site	involved in light responsiveness	X05984	tgACACGTGGCA
+	site	part of a LRE in a tomato rbcS gene	X66069	ACACGTGTCACC
+	consensus		rec(Arabidopsis-E.coli)	TGACACGTGGCA
+	consensus	part of LRE in the rbcS genes	?	ACACGTG(G/t)CACC
+H-box	Lycopersicon esculentum	cis-acting regulatory element involved in light responsiveness		
+	site	cis acting common element in promoter and enhancer regions; involved in light responsiveness	S44160	ACCATTTTCACTC
+HMG-TATA-region	Lycopersicon esculentum	cis-acting regulatory element	HMG region around a TATA-box	
+	site	TATA-box region that gives high levels of transcription without the need of other upstream cis elements	U68071	CTATAAATACATTTC
+	site	region around the TATA-box conferring high transcription levels without the need for other upstream cis elements	U68072	CTATAAATACATTTC
+	site	region around the TATA-box conferring high transcription levels without the need for other upstream cis elements	U68073	CTATAAATGCATTTC
+HSE	Lycopersicon esculentum	cis-acting element involved in heat stress responsiveness	Heat Shock Element	
+	site	regulation of heat-regulated genes	L41253	CTAGAACTGTAGAGAAATCTCCAGAACTTACCAGAAGCTACA
+	site	cis-acting element involved in heat stress responsiveness	L41253	CTAGAAACTTCTCGAG
+	consensus	heat-shock responsive element	?	CNNGAANNTTCNNG
+I-box	Lycopersicon esculentum	part of a light responsive element		
+	site	part of a LRE in a tomato rbcS gene	S44160	GGATGAGATAAGACT
+	site	part of a LRE in a tomato rbcS gene	X66069	GGATGAGATAAGATT
+	consensus	part of the LRE in tomato rbcS genes	?	GGATGAGATAAGA(T/c)T
+L-box	Lycopersicon esculentum	part of a light responsive element		
+	site	common cis-acting element in promoter and enhancer regions; involved in light responsiveness	S44160	AAATTAACCAAC
+TATA-box	Lycopersicon esculentum	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	S44898	taTATAAAg
+	site	core promoter element around -30 of transcription start	L41253	TTTTA
+Unnamed__1	Lycopersicon esculentum			
+	consensus			
+Unnamed__2	Lycopersicon esculentum			
+	consensus			
+Unnamed__3	Lycopersicon esculentum			
+	consensus			
+Circadian clock	Lycopersicon esculentum	cis-acting regulatory element involved in circadian control	Circadian control	
+	site	involved in the circadian mRNA accumulation	M14445	CAAAGATATC
+	consensus	motif 2 to 4 times repeated in genes under the control of a circadian clock	Leaf discs	CAANNNNATC
+CG-motif	Lemna gibba	part of a light responsive element		
+	site	part of the rbcS conserved DNA module array (rbcS-CMA7) involved in light responsiveness	S45166	CCATGGGG
+LS5/LS6	Lemna gibba	part of a light responsive element	Lemna LS5/LS6	
+	site	part of the cab conserved DNA module array (cab-CMA4) involved with light responsiveness	M12152	GAACCAATCCCAACCAAGC
+LS7	Lemna gibba	part of a light responsive element	Lemna LS7	
+	site	part of the cab conserved DNA module array (cab-CMA4) involved in light responsiveness	M12152	CGGATAAGGGCAATA
+Y-box	Lemna gibba	?		
+	site		S45166	TGTGGAGGAGCA
+Cab-CMA4	Lemna gibba	part of a light responsive element	Cab-Conserved DNA Module Array 4	
+	consensus	possible minimal LRE in some cab genes	?	(G/c)(C/a)ACCAAT(G/c)(G/c)CA(T/a)CCAAGCNNC(A/g)GAT(T/a)(T/a)N(T/g)(T/g)N(T/a)(T/a)(T/c)A
+RbcS-CMA7a	Lemna gibba	part of a light responsive element		
+	site	part of the conserved DNA module array (rbcS-CMA7) involved in light responsiveness	S45166	GTCGATAAGG
+RbcS-CMA7c	Lemna gibba	part of a light responsive element		
+	site	part of the rbcS conserved DNA module array (rbcS-CMA7) involved with light responsiveness.	S45166	ACGCAGTGTGTGGAGGAGCA
+G-box	Larix laricina	cis-acting regulatory element involved in light responsiveness		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	X16039	GACACGTAGT
+I-box	Larix laricina	part of a light responsive element		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	X16039	GTATAAGGCC
+Box II	Nicotiana plumbaginifolia	part of a conserved DNA module involved in light responsiveness		
+	site	part of the cab conserved DNA module array (cab-CMA3) involved with light responsiveness	X12512	GTGGATATTATAT
+G-box	Nicotiana plumbaginifolia	cis-acting regulatory element involved in light responsiveness		
+	site	part of the cab conserved DNA module array (cab-CMA3) involved with light responsiveness	X12512	CAGACGTGGCA
+I-box	Nicotiana plumbaginifolia	part of a light responsive element		
+	site	part of the cab conserved DNA module array (cab-CMA3) involved with light responsiveness	X12512	CTCTTATGCT
+AuxRR-core	Nicotiana tabacum	cis-acting regulatory element involved in auxin responsiveness	Core of the Auxin Response Region	
+	site	involved in auxin response du to stress.	D85911	GGTCCAT
+CAAT-box	Nicotiana tabacum	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	L02124	CAAT
+E2F	Nicotiana tabacum		E2F-binding site	
+	site	E2F-binding site; G1-M transition of cell cycle	AJ276622	AGTGGCGGNNNNNTTTGAA
+E2Fa	Nicotiana tabacum		E2F-binding site	
+	site	E2F-binding site; G1-M transition of cell cycle	AJ276622	TTTCCCGC
+E2Fb	Nicotiana tabacum		E2F-binding site	
+	site	E2F-binding site; G1-M transition of cell cycle	AJ276622	TTTGCCGC
+EIRE	Nicotiana tabacum	elicitor-responsive element	Elicitor Responsive Element	
+	site	required for elicitor responsiveness	X69794	TTCGACC
+G-box	Nicotiana tabacum	cis-acting regulatory element involved in light responsiveness		
+	site	unclear; positive regulatory elements; implicated in spatial and temporal control of expression; and regulation by ABA; methyl jasmonate and UV-light	L02124	CACGTG
+SARE	Nicotiana tabacum	cis-acting element involved in salicylic acid responsiveness	Salicylic Acid Responsive Element	
+	site	might confer salicylic acid responsiveness	X69794	TTCGACCTCCTT
+	site	might confer salicylic acid responsiveness	X69794	TTCGACCATCTT
+TA-rich region	Nicotiana tabacum	enhancer		
+	site	enhancer of transcription	L02124	TATATATATATATATATATATA
+TATA-box	Nicotiana tabacum	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	D85911	tcTATAAATAgg
+	site	core promoter element around -30 of transcription start	L02124	tcTATAAAta
+TC-rich repeats	Nicotiana tabacum	cis-acting element involved in defense and stress responsiveness		
+	site	stress-inducible; defense-related	L02124	ATTCTCTAAC
+	site	stress-inducible; defense-related	L02124	ATTTTCTTCA
+	site	stress-inducible; defense-related	L02124	GTTTTCTTAC
+	site	stress-inducible; defense-related	L02124	ATTTTCTCCA
+TCA-element	Nicotiana tabacum	cis-acting element involved in salicylic acid responsiveness		
+	site	one TCA-element does not confer salicylic acid responsiveness; more than one TCA-element might do it.	X69794	CCATCTTTTT
+	site	might confer salicylic acid responsiveness	X69794	
+	site	might confer salicylic acid responsiveness	X69794	
+	site	might confer salicylic acid responsiveness	X69794	
+Unnamed__1	Nicotiana tabacum			
+	consensus		seedlings	tcttaCACGTGgcacctc
+As-1-box	Nicotiana tabacum	involved in response to auxin, salicylic acid and methyl jasmonate		
+	site	involved in various stress-responses correlated with auxin; salicylic acid and methyl jasmonate	D85911	TGACGAATGCGATGACC
+As-2-box	Nicotiana tabacum	involved in shoot-specific expression and light responsiveness		
+	site	light-responsive promoters and implicated in shoot-specific expression	L02124	GATAatGATG
+A-box	Oryza sativa	sequence conserved in alpha-amylase promoters	Amylase box	
+	site	sequence conserved in the upstream regions of all the alpha-amylase genes	X52240	AATAACAAACTCC
+	site	sequence conserved in the upstream regions of all the alpha-amylase genes	X52240	TATCCATCCATCC
+AACA-motif	Oryza sativa	involved in endosperm-specific negative expression		
+	site	proximal cis-regulatory element conferring endosperm-specific expression of glutelin with other motifs (GCN4; ACGT) specific negative element (suppres	X54314	CAACAAACTATATC
+	site	distal cis-regulatory element involved in endosperm-specific expression as a specific negative element (suppressor in other tissues than endosperm)	X54314	TAACAAACTCCA
+ABRE	Oryza sativa	cis-acting element involved in the abscisic acid responsiveness	ACGT-containing ABA Response Element	
+	site	cis-acting element involved in ABA and VP1 responsiveness	U22102	TACGTGTC
+	site	motif I; cis-acting element involved in ABA responsiveness; Motif I and III are required for ABA induction; each can substitute for the other.	X52422	AGTACGTGGC
+	site	motif III; cis-acting element involved in ABA responsiveness. Motif I and III are required for ABA induction; each can substitute for the other.	X52422	GCCGCGTGGC
+	site	cis-acting element involved in ABA responsiveness	X63126	ACGTACGTGTCGCGC
+	site	cis-acting element involved in ABA responsiveness	X63126	GACACGTACGT
+ATGCAAAT-motif	Oryza sativa	cis-acting regulatory element associated to the TGAGTCA motif	Octameric binding site	
+	site	cis-acting regulatory element; one base mismatch; binding site associated to the TGAGTCA motif (GCN4) separated from by 2 bases and arranged en tand	X52153	ATACAAAT
+Box II -like sequence	Oryza sativa	cis-acting regulatory element	Related to alpha amylase motif	
+	site	cis-acting regulatory element; similar DNA sequence and relative position to the motif present in alpha-amylase promoter	X52153	TCCGTGTACCA
+CAAT-box	Oryza sativa	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	D45890	CCAAT
+	site	common cis-acting element in promoter and enhancer regions	D45890	CCAAT
+CE3	Oryza sativa	cis-acting element involved in ABA and VP1 responsiveness	Coupling Element 3	
+	site	cis-acting element involved in ABA and VP1 responsiveness	U22102	GACGCGTGTC
+Footprint A	Oryza sativa	part of a light responsive element		
+	site	part of the cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X13909	AACCAATCTCATCCATCC
+G-box	Oryza sativa	cis-acting regulatory element involved in light responsiveness		
+	site	cis-acting regulatory element	D45890	CACGTG
+	site	cis-acting regulatory element; associated with TATCC T/C motif; involved in sugar repression responsiveness	M59351	TACGTG
+	site	cis-acting element with the AACA; GCN4 and Skn-1 motifs conferring endosperm-specific expression of glutelin	X54314	GTACGTG
+GATT-motif	Oryza sativa	part of a light responsive element	LS7-like motif	
+	site	part of the cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X13909	CTCCTGATTGGA
+GC-motif	Oryza sativa	?		
+	site		X63126	CGCCGCGCA
+	site		X63126	GCCGCGCG
+	site		X63126	CGGCGCCCT
+	site		X63126	AGCGCGGCC
+	site		X63126	AGCGAGCCG
+	site		X63126	AGCGCGCCG
+GC-repeat	Oryza sativa	?		
+	site		X63126	GGCCTCGCCACG
+	site		X63126	GCACCGAGC
+GCN4-motif	Oryza sativa	cis-regulatory element involved in endosperm expression		
+	site	motif highly conserved in glutelin promoters which may be involved in tissue-specific expression	X52153	TGAGTCA
+	site	motif highly conserved in glutelin promoters which may be involved in tissue-specific expression; one base mismatch. Binding site associated the ATGC	X52153	TGTGTCA
+	site	motif highly conserved in 5prime of all glutelin genes cis-regulatory element involved in endosperm-specific expression; essential element; found asso	X54314	TGAGTCA
+	site	truncated motif highly conserved in 5prime of all glutelin genes cis-regulatory element involved in endosperm expression with other motifs (AACA and A	X54314	CAAGCCA
+GT1-motif	Oryza sativa	light responsive element		
+	consensus		rec(rice-E.coli)	GCGGTAATT
+GTCA direct repeat	Oryza sativa	protein binding site		
+	site	protein binding site 7 bp imperfect direct repeat; 5 bp repeat facing each other. May be specific to the Gt2 and Gt1 subfamilies	X52153	TAAGTCATAACTGATGA
+MPE	Oryza sativa			
+	consensus		leaf	AAAAAAAAAAAAAGAAAGAAAAAAAAGAAAAAGAAAAA
+P-box	Oryza sativa	gibberellin-responsive element	Pyrimidine box	
+	site	cis-acting element involved in gibberellin responsiveness; conserved element in the upstream sequence of GA inducible genes in cereal seeds	X52240	GCCTTTTGAGT
+	site	gibberellin responsive element	X54314	CCTTTTG
+Prolamin-box	Oryza sativa	cis-acting regulatory element associated with GCN4		
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X54314	tgccaTGTAAAGatgac
+RY-element	Oryza sativa			
+	site	element involved in the seed-specific regulation	X63126	CATGCATG
+Skn-1-like motif	Oryza sativa	cis-acting regulatory element required for endosperm expression		
+	site	cis-regulatory element required for high levels of endosperm expression in cooperative interaction with other motifs (AACA; GCN4; ACGT)	X54314	GTCAT
+Sp1	Oryza sativa	light responsive element		
+	site	involved in light responsiveness	X63126	GGGCGG
+TATA-box	Oryza sativa	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	A23333	TACAAAA
+	site	core promoter element around -30 of transcription start	D45890	TATATA
+	site	core promoter element around -30 of transcription start	X54314	TATAAA
+	site	core promoter element around -30 of transcription start	X63126	TATAAGAA
+	site	core promoter element around -30 of transcription start	A23331	TATAAAT
+	site	core promoter element around -30 of transcription start	A23332	TACATAAA
+TATC-box	Oryza sativa	cis-acting element involved in gibberellin-responsiveness		
+	site	cis-acting element involved in gibberellin-responsiveness but not involved in the expression of GluB-1	X54314	TATCCCA
+TATCCAT/C-motif	Oryza sativa		Antisense GATA-motif	
+	site	cis-acting regulatory element; associated with G-box like motif; involved in sugar repression responsiveness	M59351	TATCCAT
+TGGCA	Oryza sativa	part of a light responsive element	G-box like motif	
+	site	part of the cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X13909	GACACCAAGTGGCA
+Unnamed__1	Oryza sativa			
+	consensus		rice seeds	tAAGTCATAACTGa
+Unnamed__2	Oryza sativa			
+	consensus		rice seeds	catCCATGTCATATT
+Unnamed__3	Oryza sativa			
+	consensus		rice seeds	AATGATGTGTCAAT
+Unnamed__4	Oryza sativa			
+	consensus		rice seeds	TTCCGTGTACCAC
+Unnamed__5	Oryza sativa			
+	consensus		rice seeds	atatcaTGAGTCActtca
+Unnamed__6	Oryza sativa			
+	consensus		rice seeds	atccacCTTTCGTGTACc
+Unnamed__7	Oryza sativa	HBP factor binding site		
+	consensus		rec(wheat-E.coli)	ttttgccACGTCAcatgctg
+Unnamed__8	Oryza sativa			
+	consensus		root	GCCCAACCCAACCCAAC
+Motif I	Oryza sativa	cis-acting regulatory element root specific		
+	consensus	transcription activator with root specificity might be involved in developmental activation at different stages	tobacco	gGTACGTGGCG
+Motif IIb	Oryza sativa	abscisic acid responsive element		
+	consensus	abscisic acid responsive element	rice + AB	CCGCCGCGCT
+Motifs I & IIa	Oryza sativa	abscisic acid responsive element		
+	consensus	abscisic acid responsive element	rice + AB	TACGTGGCgccaCCGCCGCGCCT
+Plant AP-2-like	Oryza sativa	?		
+	site		X63126	CGCGCCGG
+	site		X63126	CGACCAGG
+Unnamed__1	Petunia sp.			
+	consensus		rec(tobacco-E.coli)	GCCACGTGGC
+4cl-CMA1	Petroselinum crispum	light responsive element	4cl Conserved DNA Module Array 1	
+	consensus	motif of the 4cl conserved DNA module array (4cl-CMA1) involved with light responsiveness	?	TT(A/G)CCCCT(A/G)A(C/A)CAA(A/C)CCT(C/A)ANAT(T/A)CC(G/C)ATAAACTNCCC(C/T)TT(T/C)ACC(A/T)ACC(C/A)C
+4cl-CMA1a	Petroselinum crispum	light responsive element	4cl conserved DNA Module Array 1(part a)	
+	site	part of the 4cl conserved DNA module array (4cl-CMA1) involved with light responsiveness	X05350	TTACCCCTAACCAAACCTCA
+4cl-CMA1b	Petroselinum crispum	light responsive element	4cl conserved DNA Module Array 1(part b)	
+	site	part of the 4cl conserved DNA module array (4cl-CMA1) involved in light responsiveness	X05350	ATTCCGATAAACT
+4cl-CMA1c	Petroselinum crispum	light responsive element	4cl Conserved DNA Module Array 1c ou P-box	
+	site	part from the 4cl conserved DNA module array (4cl CMA1) involved in light responsiveness site also called P-box	X05350	CCCCTTTACCAACCCC
+	site	cis-acting regulatory element similar to P-box associated with A- and L-box involved in induced transcriptional activity but not sufficient to confer	X05351	CTTTACCAACCCCC
+4cl-CMA2a	Petroselinum crispum	light responsive element	4cl Conserved DNA Module Array 2(part a)	
+	site	part of the 4cl conserved DNA module array (4cl CMA2) involved with light responsiveness (eventually UV)	X05350	TCATCACCTAACAC
+4cl-CMA2b	Petroselinum crispum	light responsive element	4cl Conserved DNA Module Array 2 b ou L-box	
+	site	part of the 4cl conserved DNA module array (4cl-CMA2) involved with light responsiveness (eventually UV) site also called L-box	X05350	TCTCACCAACCCCA
+	site	cis-acting regulatory element similar to L-box associated with A- and P-box involved in induced transcriptional activity but not sufficient to confer	X05351	TCTCACCAACC
+A-box	Petroselinum crispum	cis-acting regulatory element		
+	site	cis-acting regulatory element associated with P- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37357	CCGTCC
+	site	cis-acting regulatory element associated with P- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	X05350	CCGTCC
+	site	cis-acting regulatory element associated with P- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	X05351	CCGTCC
+	site	cis-acting regulatory element associated with P- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	X15473	CCGTCC
+	site	cis-acting regulatory element associated with P- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37355	CCGTCC
+	site	cis-acting regulatory element associated with P- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37356	CCGTCC
+AC-II	Petroselinum crispum		AC-II element	
+	site	element involved in negative regulation on phloem expression; and responsible for restricting vascular expression to the xylem	X05350	CTCACCAACCCC
+ACE	Petroselinum crispum	cis-acting element involved in light responsiveness	ACGT-Containing Element	
+	site	cis-acting element in promoter and enhancer; involved in light responsiveness	U46217	CTAACGTATT
+	site	cis-acting element in promoter and enhancer; involved in light responsiveness	U46217	ACTACGTTGG
+	site	cis-acting element in promoter and enhancer; involved in light responsiveness	U46217	GCGACGTACC
+	site	cis-acting element in promoter and enhancer; involved in light responsiveness	U46217	AAAACGTTTA
+	site	cis-acting element in promoter and enhancer; involved in light responsiveness	U46217	GACACGTATG
+	site	cis-acting element in promoter and enhancer; involved in light-dependent changes of gene expression	U46217	GACACGTGTTCGATGACGTGGT
+Box 4	Petroselinum crispum	part of a conserved DNA module involved in light responsiveness		
+	site	part of the pal conserved DNA module array (pal-CMA1) involved with light responsiveness	X15473	ATTAAT
+Box I	Petroselinum crispum	part of a light responsive element		
+	site	part of a LRE in a chs gene	M35515	GTCCCTCCAACCTAACCT
+Box II	Petroselinum crispum	part of a light responsive element		
+	site	module 3 of the chs unit 1; part of a light response element	M35515	CCACGTGGC
+Box-C	Petroselinum crispum	cis-acting element involved in the basal expression of the PR1 genes		
+	site	cis-acting element involved in the basal expression of the PR1 genes; not involved in the elicitor responsiveness.	U48862	CTATTATTACCTGGTCAGCTTT
+	site	cis-acting element involved in the basal expression of the PR1 genes; not involved in the elicitor responsiveness.	U48863	TATTACCTGGTCACGCTTTCATA
+Box-W1	Petroselinum crispum	fungal elicitor responsive element	(T)TGAC(C)-like element	
+	site	fungal elicitor responsive element. WRKY1 (U48831) protein binding site	U48863	TTGACC
+	site	fungal elicitor responsive element. WRKY1 (U48831) protein binding site	U48862	TTGACC
+Box-W2	Petroselinum crispum	fungal elicitor responsive element	(T)TGAC(C)-like element	
+	site	fungal elicitor response element. WRKY2 (U58540) protein binding site	U48862	TTCAGCCatcaaagTTGACC
+Box-W3	Petroselinum crispum	fungal elicitor responsive element	TGAC-like element	
+	site	fungal elicitor response element. WRKY3 (U56834) protein binding site.	U48863	TGACtaaataGTCA
+FP56	Petroselinum crispum		Footprint 5 and 6	
+	site	transcriptional enhancer of 4CL1 in developmentally regulated expressuon. Binds protein factors	X05350	TCCCCATTTTACCCCT
+L-box	Petroselinum crispum	part of a light responsive element		
+	site	cis-acting regulatory element associated with A- and P-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37355	TCTCACCTACC
+	site	cis-acting regulatory element associated with A- and P-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37356	ATCCCACCTAC
+	site	cis-acting regulatory element associated with A- and P-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37357	TCTCACCAACC
+	site		X05350	
+	site	part of the pal conserved DNA module array (pal-CMA1) involved with light responsiveness	X15473	CTCACCTACCAA
+MRE	Petroselinum crispum	MYB binding site involved in light responsiveness	MYB Recognition Element	
+	site	light-regulatory element and MYB recognition element recognized in vitro and in vivo by different types of MYB-like proteins (PcMYB1 and MYB305)	U67134	AACCTAA
+P-box	Petroselinum crispum	gibberellin-responsive element and part of a light responsive element	Pyrimidine box	
+	site	cis-acting regulatory element associated with A- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37355	CTCCAACAAACCCC
+	site	cis-acting regulatory element associated with A- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37356	TTCCAACAAACCCC
+	site	cis-acting regulatory element associated with A- and L-box involved in induced transcriptional activity but not sufficient to confer responsiveness to	L37357	CTCCAACCATCCAA
+	site	part of the pal conserved DNA module array (pal-CMA1) involved in light responsiveness	X15473	CAACAAACCCCTT
+TATA-box	Petroselinum crispum	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	L37357	TATAAA
+	site	core promoter element around -30 of transcription start	U46217	TATAAT
+	site	core promoter element around -30 of transcription start	U48862	TATAAAT
+	site	core promoter element around -30 of transcription start	U48863	TATAAAT
+	site	core promoter element around -30 of transcription start	X15473	TATAAA
+	site	core promoter element around -30 of transcription start	L37355	TATAAA
+	site	core promoter element around -30 of transcription start	L37356	TATAAA
+Unnamed__1	Petroselinum crispum	CG-1 factor binding site (binding activity induced by UV-irradiation)		
+	consensus		seedling	tattcCACGTGgccatcc
+box E	Petroselinum crispum		fungal elicitator	
+	site	Cis-element for induction upon fungal elicitation	Z54183	ACCCATCAAG
+Chs-CMA2a	Petroselinum crispum	part of a light responsive element	Chs Conserved DNA Module Array 2(part a)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	M35515	TCACTTGA
+Chs-CMA2b	Petroselinum crispum	part of a light responsive element	Chs Conserved DNA Module Array 2(part b)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	M35515	GTATCTACTCAC
+Chs-CMA2c	Petroselinum crispum	part of a light responsive element	Chs Conserved DNA Module Array 2(part c)	
+	site	part of the chs conserved DNA module array (chs-CMA2) involved with light responsiveness	M35515	ATGTACGTGGAGG
+Chs-unit 1	Petroselinum crispum	part of a light responsive element		
+	site	Light responsive element	M35515	CCACGTGGCCATCCGGTGGCCGTCCCTCCAACCTAACCTCC
+Chs-unit 1 m1	Petroselinum crispum	part of a light responsive element	Chs-unit 1 module 1	
+	site	part of the chs-Unit 1 motif involved in light responsiveness	M35515	ACCTAACCTCC
+Chs-unit 1 m2	Petroselinum crispum	part of a light responsive element	Chs-unit 1 module 2	
+	site	part of the chs-Unit 1 involved in light responsiveness	M35515	TCCGGTGGCCGTCCCTC
+ACE	Petroselinum hortense	cis-acting element involved in light responsiveness	ACGT-Containing Element	
+	consensus	cis-acting element involved in light responsiveness interacts in vitro and in vivo with common plant regulatory factors (CPRFs) of the b-ZIP type	dipl. parsley	ACGTGGA
+CAAT-box	Petunia hybrida	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	X14597	TGCCAAC
+CCGTCC-box	Petroselinum hortense			
+	consensus		dipl. parsley	CCGTCC
+L-box	Petroselinum hortense	part of a light responsive element		
+	consensus		dipl. parsley	attctcaCCTACCA
+MBSI	Petunia hybrida	MYB binding site involved in flavonoid biosynthetic genes regulation	MYB DNA Binding Site I	
+	site	enhancer	X14597	TTTTTACGGTTA
+	consensus	flavonoid biosynthetic genes; regulation of phenylpropanoid biosynthetic genes; trichome differentiation; shape of epidermal petal cells	petal epidermis cells	aaaAaaC(G/C)GTTA
+MBSII	Petunia hybrida	MYB binding site involved in flavonoid biosynthetic genes regulation	MYB DNA Binding Site II	
+	site	enhancer function	X14597	AAAAGTTAGTTA
+	consensus	flavonoid biosynthetic genes; regulation of phenylpropanoid biosynthetic genes; trichome differentiation; shape of epidermal petal cells	petal epidermis cells	aaaAGTTAGTTA
+P-box	Petroselinum hortense	gibberellin-responsive element and part of a light responsive element	Pyrimidine box	
+	consensus		dipl. parsley	CTCCAACAAACCCCTTC
+TATA-box	Petunia hybrida	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	X14597	TATAAAT
+TCCACCT-motif	Petroselinum hortense			
+	consensus		dipl. Parsley	TCCACCT
+Unnamed__2	Petroselinum hortense			
+	consensus		dipl. parsley	AACCTAACCT
+Unnamed__4	Petroselinum hortense			
+	consensus		dipl. Parsley	CTCC
+Box II	Petroselinum hortense	part of a light responsive element		
+	consensus	involved in light responsiveness part of the Unit-1 motif	rec(parsley-ret lys)	TCCACGTGGC
+3-AF3 binding site	Pisum sativum	part of a conserved DNA module array (CMA3)		
+	site	part of a conserved DNA module array (CMA3)	M21356	CACTATCTAAC
+3-AF5 binding site	Pisum sativum	part of a conserved DNA module array in a rbcS gene (CMA3)		
+	site	part of a conserved DNA module array in a rbcS gene (CMA3)	M21356	TGCAAACTTTATCAT
+ACA-motif	Pisum sativum	part of gapA in (gapA-CMA1) involved with light responsiveness		
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved with light responsiveness	X52148	AATTACAGCCATT
+AT-rich sequence	Pisum sativum	element for maximal elicitor-mediated activation (2copies)		
+	site	sequence imperative for maximal ELICITOR-mediated activation of PsChs1 (2x the sequence is needed)	D10661	TAAAATACT
+	site	imperative for maximal elicitor-mediated activation of PsChs1 (2x the sequence is needed)	D10661	TAAAATACT
+	site	maximal elicitor-mediated activation of PsChs1 (2x the sequence with the nucleotides in-between )	D10661	TAAAATACTATCCATTCGTTAATAGTAAAATACT
+ATC-motif	Pisum sativum	part of a conserved DNA module involved in light responsiveness		
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved in light responsiveness	X52148	TGCTATCCA
+ATCC-motif	Pisum sativum	part of a conserved DNA module involved in light responsiveness		
+	site	part of the Pc conserved DNA module array (Pc-CMA1) involved with light responsiveness	S66544	CAATCCTC
+ATCT-motif	Pisum sativum	part of a conserved DNA module involved in light responsiveness	LAMP-like motif	
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved with light responsiveness	X52148	AATCTAATCC
+Box I	Pisum sativum	light responsive element		
+	site	light responsive element	M21356	TTTCAAA
+Box II	Pisum sativum	part of a light responsive element		
+	site	part of a conserved DNA module array involved in light responsiveness.	M21356	tGTGTGGTTAATATG
+	site	involved in light responsiveness	M21356	GTGAGGTAATAT
+Box III	Pisum sativum	protein binding site		
+	site	identified as a candidate box on the based of homology with rbcs genes (not shown to be active)	M21356	atCATTTTCACt
+	site	involved in light responsiveness	M21356	CATTTACACT
+CAAT-box	Pisum sativum	common cis-acting element in promoter and enhancer regions	CAAT-box from the Ac transposon	
+	site	common transcription element (functionality within the transposon =?)	D10661	CAAAT
+G-box	Pisum sativum	cis-acting regulatory element involved in light responsiveness		
+	site	involved in light responsiveness	AF060237	CACGTG
+	site	light responsive element site associated to Box II and P-box to confer elicitor-mediated gene activation in a number of phenylpropanoid genes	D10661	CACGTG
+	site	involved in light responsiveness	D88260	CACGTG
+	site	involved with light responsiveness	D88261	CACGTG
+	site	involved in light responsiveness	D88262	CACGTT
+	site	part of the cab conserved DNA module array (cab-CMA2) involved with light responsiveness	K02067	CACACATGGAA
+	site	promoter regulatory element involved in light responsiveness	X05979	CACGTGAAA
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X14207	GCCACCTGGCA
+GATA-motif	Pisum sativum	part of a light responsive element		
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X14207	GATAGGG
+I-box	Pisum sativum	part of a light responsive element		
+	site	part of the cab conserved DNA module array (cab-CMA2) involved with light responsiveness	K02067	ATGATATGA
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X14207	TAGATAACC
+L-box	Pisum sativum	cis-element required for elicitor-mediated gene activation		
+	site	homologous to L-box and H-box (CCTACC(N)7CT(N)4A) cis-element required for elicitor-mediated gene activation in a number of phenylpropanoid genes site	D10661	CTACCTACCCTCTAATATC
+LAMP element	Pisum sativum	part of a light responsive element		
+	site	part of the Pc conserved DNA module array (Pc-CMA1) involved with light responsiveness	S66544	CTTTATCA
+P-box	Pisum sativum	gibberellin-responsive element		
+	site	cis-element required for elicitor-mediated gene activation in a number of phenylpropanoid genes site called Box II associated to Box I and G-box	D10661	GACCAAACTCGT
+Pc-CMA2a	Pisum sativum	part of a light responsive element	Pc Conserved DNA Module Array 2(part a)	
+	site	part of the Pc conserved DNA module array (Pc-CMA2) involved in light responsiveness	S66544	CAGCCAATCACAG
+Pc-CMA2b	Pisum sativum	part of a light responsive element	Pc Conserved DNA Module Array 2(part b)	
+	site	part of the Pc conserved DNA module array (Pc-CMA2) involved in light responsiveness	S66544	AGATAACCCACTTTA
+Pc-CMA2c	Pisum sativum	part of a light responsive element	Pc Conserved DNA Module Array 2(part c)	
+	site	part of the Pc conserved DNA module array (Pc-CMA2) involved in light responsiveness	S66544	GCCCACGCA
+TATA-box	Pisum sativum	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	AB007911	TATATGT
+	site	core promoter element around -30 of transcription start	AF060237	TATAAAA
+	site	core promoter element around -30 of transcription start	D10661	TATAAA
+	site	core promoter element around -30 of transcription start	D88260	TATAAAA
+	site	core promoter element around -30 of transcription start	D88261	TATAAAA
+	site	core promoter element around -30 of transcription start	D88262	TATAAAA
+	site	part of the Pc conserved DNA module array (Pc-CMA1) involved with light responsiveness	S66544	TATAAAAT
+	site	core promoter element around -30 of transcription start	X05979	TATATAT
+	site	core promoter element around -30 of transcription start	X05979	TATATAAA
+Unnamed_1	Pisum sativum	cis-acting element involved in phytochrome down-regulation expression		
+	site	cis-acting element involved in phytochrome down-regulation expression	AB007911	GGATTTTACAGT
+Unnamed__5	Pisum sativum	HBP factor binding site		
+	consensus		rec(wheat-E.coli)	ctttcaaTGACGTgtccaac
+AC-I	Populus tremuloides		AC-I element	
+	site	Negative regulation of phloem expression. Responsible for restricting vascular expression to the xylem	AF041051	TCTCACCAACC
+AC-II	Populus tremuloides		AC-II element	
+	site	Negative regulation of phloem expression. Responsible for restricting vascular expression to the xylem	AF041051	TCACCAACCCCC
+AC-I	Phaseolus vulgaris		AC-I element	
+	site	element conferring enhanced xylem expression and repressed phloem expression in transgenic tobacco; enhancing petal expression. Myb305 from Antirrhin	PAL2	CCCACCTACC
+	consensus	Homologous to AC-I element from the PAL2 gene from Phaseolus. AC-I confers enhanced xylem expression and repressed phloem expression		(T/C)C(T/C)(C/T)ACC(T/C)ACC
+AC-II	Phaseolus vulgaris		AC-II element	
+	site	element conferring enhanced xylem expression and repressed phloem expression in transgenic tobacco; enhancement of petal expression; Myb305 binds to A	PAL2	CCACCAACCCCC
+	site	AC-II repeat promoter confer xylem specific expression. ACBF binds to AC-II	PAL2	TCCACCAACCCC
+	consensus	Homologous to AC-II element from the PAL2 gene from Phaseolus. AC-II confers enhanced xylem expression and repressed phloem		(C/T)T(T/C)(C/T)(A/C)(A/C)C(A/C)A(A/C)C(C/A)(C/A)C
+H-box	Phaseolus vulgaris		H-box	
+	site	Control of developmentally regulated and stress indused expression binds protein factors KAP-1 and KAP-2	unkown	CCTACCNNNNNNNCTNNNNA
+Unnamed__1	Phaseolus vulgaris			
+	consensus		bean embryo	
+Silencer	Phaseolus vulgaris	GT-1 factor binding site		
+	consensus		bean embryo	ATTAAAAGTTAAAAACACA
+	consensus		bean embryo	GGACGCACTGTGATTAAATAT
+	consensus		bean embryo	ACCAATTATTGGTTACTAAATTTAACAG
+Box I	Sinapis alba	part of a light responsive element		
+	site	part of a LRE in a chs gene	X16437	GTCCATCAAACCTACCACAC
+Box II	Sinapis alba	part of a light responsive element		
+	site	part of a LRE	X16437	ACACGTTGT
+Unnamed__1	Sesbania rostrata + A. caulonidans			
+	consensus			
+Chs-unit 1	Sinapis alba	part of a light responsive element		
+	site	LRE; sequence consisting of three modules; enough to make light inducing possible	M35515	ACACGTTGTGCTTCATCTGCCCGTCCATCAAACCTACCACAC
+Chs-unit 1 m1	Sinapis alba	part of a light responsive element	Chs-unit 1 module 1	
+	site	part of the chs-Unit-1 involved with light responsiveness	X16437	ACCTACCACAC
+Chs-unit 1 m2	Sinapis alba	part of a light responsive element	Chs-unit 1 module 2	
+	site	part of the chs-Unit 1 motif involved with light responsiveness	X16437	TCATCTGCCCGTCCATC
+Prolamin-box	Sorghum bicolor	involved in activation of zein gene endosperm development		
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X62480	tgacgTGTAAAGgtgaa
+Prolamin-box	Secale cereale	involved in activation of zein gene during endosperm development		
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X60295	tgtagTGTAAAGtgaaa
+AAAC-motif	Spinacia oleracea	light responsive element		
+	site	part of the atpCD conserved DNA module array (AtpCD-CMA) involved with light responsiveness	X61362	CAATCAAAACCT
+	site	part of the atpCD conserved DNA module array (atpCD-CMA) involved with light responsiveness	X76131	CAACAAAAACCT
+ATC-motif	Spinacia oleracea	part of a conserved DNA module involved in light responsiveness		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved with light responsiveness	S45033	AGTAATCT
+DREP-module	Spinacia oleracea	part of a light responsive element		
+	site	part of the atpCD conserved DNA module array (atpCD-CMA) involved with light responsiveness	X76131	ACTTTACCTCCAAAATTCA
+	site	part of the atpCD conserved DNA module array (AtpCD-CMA) involved with light responsiveness	X61362	ATTTATCCTCCAAAAATCA
+G-box	Spinacia oleracea	cis-acting regulatory element involved in light responsiveness		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved in the light responsiveness	S45033	GCCACGTGGCA
+	site	cis-acting regulatory element	U45858	CACGTG
+GAG-motif	Spinacia oleracea	part of a light responsive element		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved in light responsiveness	S45033	AGAGATG
+GTGGC-motif	Spinacia oleracea	part of a light responsive element		
+	site	part of the rbcA conserved DNA module array (rbcA-CMA1) involved with light responsiveness	S45033	GATTCTGTGGC
+LAMP element	Spinacia oleracea	part of a light responsive element		
+	site	part of the AtpCD conserved DNA module array (AtpCD-CMA) involved with light responsiveness	X61362	CCAAAACCA
+	site	part of the atpCD conserved DNA module array (AtpCD-CMA) involved with light responsiveness	X76131	CCTTATCCA
+Pc-CMA2a	Spinacia oleracea	part of a light responsive element	Pc Conserved DNA Module Array (part a)	
+	site	part of the Pc conserved DNA module array (Pc-CMA2) involved with light responsiveness	X52288	CAACCAATGAAAA
+Pc-CMA2b	Spinacia oleracea	part of a light responsive element	Pc Conserved DNA Module Array 2(part b)	
+	site	part of the Pc conserved DNA module array (Pc-CMA2) involved in light responsiveness	X52288	AGATAATACCCTTTA
+Pc-CMA2c	Spinacia oleracea	part of a light responsive element	Pc Conserved DNA Module Array 2(part c)	
+	site	part of the Pc conserved DNA module array (Pc-CMA2) involved with light responsiveness	X52288	GCCCACACA
+TCCC-motif	Spinacia oleracea	part of a light responsive element		
+	site	part of the AtpCD conserved DNA module array (AtpCD-CMA) involved with light responsiveness	X61362	TCTCCCT
+	site	part of the atpCD conserved DNA module array (AtpCD-CMA) involved with light responsiveness	X76131	TCTCCCT
+3-AF1 binding site	Solanum tuberosum	light responsive element		
+	site	light responsive element	Z13987	TAAGAGAGGAA
+	site	light responsive element	Z35160	AAGAGATATTT
+4cl-CMA2a	Solanum tuberosum	light responsive element	4cl Conserved DNA Module Array 2(part a)	
+	site	part of the 4cl conserved DNA module array (4cl CMA2) involved with light responsiveness (eventually UV)	M62755	TCATCACCTAACCA
+4cl-CMA2b	Solanum tuberosum	light responsive element	4cl Conserved DNA Module Array 2(part b)	
+	site	part of the 4cl conserved DNA module array (4cl CMA2) involved with light responsiveness (eventually UV)	M62755	TCTCACCAACCACA
+AT1-motif	Solanum tuberosum	part of a light responsive module		
+	site	light responsive element	Z13987	AATTATTTTTTATT
+	site	light responsive element	Z35160	ATTAATTTTACA
+Box II	Solanum tuberosum	part of a light responsive element		
+	site	part of the Ls conserved DNA module array (Ls-CMA1) involved with light responsiveness	X04753	TGGTAATAA
+CAAT-box	Solanum tuberosum	common cis-acting element in promoter and enhancer regions		
+	site	common cis-acting element in promoter and enhancer regions	Z13987	CCAAT
+	site	common cis-acting element in promoter and enhancer regions	Z35160	CCAAT
+G-box	Solanum tuberosum	cis-acting regulatory element involved in light responsiveness		
+	site	light responsive element	Z35160	CACATGG
+	site	part of the Ls conserved DNA module array (Ls-CMA1) involved with light responsiveness	X04753	TGCCACGTGTCA
+	site	light responsive element	Z13987	TCACACGTGGC
+GATA-motif	Solanum tuberosum	part of a light responsive element		
+	site	light responsive element	Z13987	AAGGATAAGG
+GT1-motif	Solanum tuberosum	light responsive element		
+	site	light responsive element	Z13987	ATGGTGGTTGG
+	site	light responsive element	Z13987	GTGTGTGAA
+	site	part of the Ls conserved DNA module array (Ls-CMA1) involved with light responsiveness	X04753	AATCCACA
+I-box	Solanum tuberosum	part of a light responsive element		
+	site	part of the Ls conserved DNA module array (Ls-CMA1) involved with light responsiveness	X04753	TGATAATGT
+	site	part of the Ls conserved DNA module array (Ls-CMA1) involved with light responsiveness	X04753	TATTATCTAGA
+TATA-box	Solanum tuberosum	core promoter element around -30 of transcription start		
+	site	core promoter element around -30 of transcription start	Z13987	TATATA
+	site	core promoter element around -30 of transcription start	Z35160	TATATA
+Unnamed__1	Solanum tuberosum			
+	consensus		?	GAGGGTATtttcGTAA
+ABRE	Triticum aestivum	cis-acting element involved in the abscisic acid responsiveness	ACGT-containing ABA Response Element	
+	consensus		rec(wheat-ret lys)	GGACACGTGGC
+	consensus	ABA (abscisic acid) induction	?	GACACGTGGC
+CellCycle-1a	Triticum aestivum	transactivator in the cell cycle-dependent transcription		
+	consensus	Transactivator in the cell cycle-dependent transcription of wheat histon genes in proliferating tissues and seedlings. composed of an hexamer and an octamer sequence	seedlings	ttcggCCACGTCAccAATCCGCGgcat
+Footprint A	Triticum aestivum	part of a light responsive element		
+	site	part of the cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X05823	AGTACATCTCATCCATTT
+G-box	Triticum aestivum	cis-acting regulatory element involved in light responsiveness		
+	site	part of the sbp conserved DNA module array (sbp-CMA1) involved in light responsiveness	S63737	GCCACGTTGGCCCC
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X75089	TCCACATGGCA
+GATT-motif	Triticum aestivum	part of a light responsive element	LS7-like motif	
+	site	part of the cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X05823	CTGCAGATTTCT
+I-box	Triticum aestivum	part of a light responsive element		
+	site	part of the rbcS conserved DNA module array (rbcS-CMA6) involved with light responsiveness	M37328	AGATAAGG
+	site	part of the fed conserved DNA module array (fed-CMA1) involved in light responsiveness	X75089	aAGATAAGA
+LS5/LS6	Triticum aestivum	part of a light responsive element		
+	site	part of the cab-conserved DNA module array (cab-CMA4) involved in light responsiveness	X05823	GCACCAATGGCATCCAAGC
+LS7	Triticum aestivum	part of a light responsive element		
+	site	part of the cab-conserved DNA module array (cab-CMA4)	X05823	CAGATTTCTTTTGA
+Prolamin-box	Triticum aestivum	involved in activation of zein gene endosperm development		
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	K03076	tgagcTGTAAAGtgaat
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X07747	tgacaTGTAAAGttaat
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X12929	tgtttTGCAAAGctcca
+TGGCA-motif	Triticum aestivum	part of a light responsive element	G-box like motif	
+	site	part of the cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X05823	TGCACCAATGGCA
+Unnamed__2	Triticum aestivum	single-strand DNA-binding proteins site (ssDBP-1 and -2)		
+	consensus		wheat germ	CCACGTCACCG
+RbcS-CMA6b	Triticum aestivum	part of a light responsive element	RbcS Conserved DNA Module Array 6(part b)	
+	site	part of the rbcS conserved DNA module array (rbcS-CMA6) involved with light responsiveness	M37328	CGGACGTGAGCCATCCCAACCACATCT
+Sbp-CMA1	Triticum aestivum	module involved with light responsiveness	Sbp Conserved DNA Module Array 1	
+	consensus	motif of the sbp conserved DNA module array (sbp-CMA1) involved in light responsiveness	?	CTCTATCTTCTCCGGNGCCACGTTGGCCCCNGCTTATCTGGTCCA
+Sbp-CMA1a	Triticum aestivum	part of a light responsive element	Sbp Conserved DNA Module Array 1(part a)	
+	site	part of the sbp conserved DNA module array (sbp-CMA1) involved in light responsiveness	S63737	CTCTATCTTCTCCGG
+Sbp-CMA1c	Triticum aestivum	part of a light responsive element	Sbp Conserved DNA Module Array 1(part c)	
+	site	part of the sbp conserved DNA module array (sbp-CMA1) involved in light responsiveness	S63737	GCTTATCTGGTCCA
+ABRE	Zea mays	cis-acting element involved in the abscisic acid responsiveness	ACGT-containing ABA Response Element	
+	site	abscisic acid responsive element; homologous to G-box	X60135	CACGTG
+ACA-motif	Zea mays	part of gapA in (gapA-CMA1) involved with light responsiveness		
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved with light responsiveness	X15408	ATCGACAGCCATT
+ARE	Zea mays	cis-acting regulatory element essential for the anaerobic induction	Anaerobic Response Element	
+	site	cis-acting regulatory element; essential for the anaerobic induction	U45858	TGGTTT
+	site	cis-acting regulatory element; essential for the anaerobic induction	U45859	AAACCA
+	site	cis-acting regulatory element; essential for the anaerobic induction	U45859	AAACCA
+	site	cis-acting regulatory element; essential for the anaerobic induction	U45859	AAACCA
+	site	cis-acting regulatory element; essential for the anaerobic induction	U45859	AAACCA
+ATC-motif	Zea mays	part of a conserved DNA module involved in light responsiveness		
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved with light responsiveness	X15408	TGCTATCCG
+ATCT-motif	Zea mays	part of a conserved DNA module involved in light responsiveness	LAMP-like motif	
+	site	part of the gapA conserved DNA module array (gapA-CMA1) involved with light responsiveness	X15408	AATCTGATCG
+Box I	Zea mays	part of a light responsive element		
+	site	part of a LRE in a chs gene	X60205	GTCCAACTGACCTAACCCGG
+Box II	Zea mays	part of a light responsive element		
+	site	part of a LRE in a chs gene	X60205	CCACGTGGC
+CAAT-box	Zea mays	common cis-acting element in promoter and enhancer regions		
+	site	conserved DNA motif involved in light responsiveness; common cis-acting element in promoter and enhancer regions	U45858	CCAAT
+CATT-motif	Zea mays	part of a light responsive element		
+	site	part of the ppdk conserved DNA module array (ppdk-CMA1) involved with light responsiveness	S46964	GCATTC
+Footprint A	Zea mays	part of a light responsive element		
+	site	part of the cab-conserved DNA module array (cab-CMA5)	X63205	ATCCTATCTCATCCATTT
+G-box	Zea mays	cis-acting regulatory element involved in light responsiveness		
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	U09743	GACATGTGGT
+	site	cis-acting regulatory element involved in Bz2 gene activation by R and C1 factors; associated with a MBS (Myb Binding Site) homologous site	U14599	CACGAC
+	site	cis-acting regulatory element	U45858	CACGTG
+	site	cis-acting regulatory element	U45859	CACGTC
+	site	cis-acting regulatory element	U45859	CACGTT
+GATT-motif	Zea mays	part of a light responsive element	LS7-like motif	
+	site	part of the cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X63205	CTCCTGATTAGC
+GC-motif	Zea mays	enhancer-like element involved in anoxic specific inducibility		
+	site	part of the rbcS conserved DNA module array (rbcS-CMA7) involved with light responsiveness	U09743	CCACGGGG
+	site	enhancer-like element; involved in anoxic specific inducibility	U45858	CCCCCG
+	site	enhancer-like element; involved in anoxic specific inducibility	U45859	GCCCCGG
+I-box	Zea mays	part of a light responsive element		
+	site	part of the ppdk conserved DNA module array (ppdk-CMA1) involved with light responsiveness	S46964	gGATAAGGTG
+	site	part of the ppdk conserved DNA module array (ppdk-CMA1) involved with light responsiveness	S46964	GATAGGG
+	site	part of the LRE rbcS-(I-G) Unit in a rbcS gene	U09743	cGATAAGGCG
+LS5/LS6	Zea mays	part of a light responsive element		
+	site	part of the cab conserved DNA module array (cab-CMA4)	X53398	GCACCAATGGCATCCAAGC
+LS7	Zea mays	part of a light responsive element		
+	site	part of the cab conserved DNA module array (cab-CMA4) involved with light responsiveness	X53398	CAGATTTATTTTTA
+MBS	Zea mays	MYB Binding Site	MYB Binding Site	
+	site	cis-acting regulatory element with weak homology to the consensus TAACTG/CAGTTA; involved in Bz2 gene activation by R and C1 factors; associated with	U14599	CGGTCA
+MNF1	Zea mays	light responsive element		
+	site		?	
+	consensus	light responsive element		GTGCCC(A/T)(A/T)
+O2-site	Zea mays	cis-acting regulatory element involved in zein metabolism regulation	Opaque-2 site	
+	site	regulation of zein related metabolism	X54212	GATGATATGG
+	site	regulation of zein related genes	X54212	GATGATGTGG
+	site	regulation of zein related genes	X54212	GATGACATGA
+	site	regulation of the zein genes	X54212	GTTGACGTGA
+	site	regulation of zein related genes and metabolism	X54212	GATGACATGG
+	consensus	regulation of the zein related genes	seeds	GATGA(C/T)(A/G)TG(A/G)
+Prolamin-box	Zea mays	involved in activation of zein gene endosperm development		
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	M13507	tgacaTGTAAAGttgat
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	M23537	agaggTGTAAATggtac
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	V01472	acatgTGTAAAGgtatt
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X55722	acatgTGTAAAGgtgaa
+	site	cis-acting regulatory element involved in activation of zein gene expression during endosperm development; binding site of prolamin-box binding factor	X58197	tgacgTGTAAAGtaaat
+Sp1	Zea mays	light responsive element		
+	consensus	light responsive element		CC(G/A)CCC
+TATA-box	Zea mays	core promoter element around -30 of transcription start		
+	site	part of the ppdk conserved DNA module array (ppdk-CMA1) involved with light responsiveness	S46964	TATAAGAA
+	site	core promoter element around -30 of transcription start	U45858	TTTAAAAA
+	site	core promoter element around -30 of transcription start	U45859	TATATAT
+TGGCA-motif	Zea mays	part of a light responsive element	G-box like motif	
+	site	part of cab conserved DNA module array (cab-CMA5) involved in light responsiveness	X63205	GATGGAAGTGGCA
+Unnamed__1	Zea mays			
+	consensus			CGTGG
+Unnamed__10	Zea mays			
+	consensus		rec(maize-E.coli)	TCCACGTAGA
+Unnamed__11	Zea mays			
+	consensus		rec(maize-E.coli)	TCCACATAGA
+Unnamed__12	Zea mays			
+	consensus		rec(maize-E.coli)	TCCACGTAGA
+Unnamed__13	Zea mays			
+	consensus		rec(maize-E.coli)	TCCAAGTATA
+Unnamed__14	Zea mays			
+	consensus		rec(maize-E.coli)	TCCACGTAGA
+Unnamed__15	Zea mays			
+	consensus		rec(maize-E.coli)	CCTCTCCCGTC
+Unnamed__16	Zea mays			
+	consensus		rec(maize-E.coli)	GCTGCCCGTC
+Unnamed__17	Zea mays			
+	consensus		rec(maize-E.coli)	TAGGAGCAGCT
+Unnamed__2	Zea mays			
+	consensus		maize cell	CCCCGG
+Unnamed__23	Zea mays			
+	consensus		rec(maize-E.coli)	
+Unnamed__24	Zea mays			
+	consensus		leave	tacggTGCCCTTgGTAGAAcaacatccttatccctata
+Unnamed__25	Zea mays			
+	consensus		endosperm	TGCAACGCAACATTCCAAAACCAT
+Unnamed__26	Zea mays			
+	consensus		seedlings	
+Unnamed__3	Zea mays			
+	consensus		maize cell	CGTGG
+Unnamed__4	Zea mays			
+	consensus			CCCACAGGC
+Unnamed__5	Zea mays			
+	consensus			tgCAAATtc
+Unnamed__6	Zea mays			
+	consensus			taTAAATATct
+Unnamed__7	Zea mays	involved in zein storage protein regulation, endosperm formation		
+	consensus	regulation of zein storage proteins expression in developing endosperm	rec(maize-E.coli)	TCATTCCACGTAGA
+Unnamed__8	Zea mays			
+	consensus		rec(maize-E.coli)	TCCACGTAGA
+Unnamed__9	Zea mays			
+	consensus		rec(maize-E.coli)	TCCACGTAGA
+Chs-unit 1	Zea mays	part of a light responsive element		
+	site	LRE; sequence consisting of three modules; enough to make light inducing possible	X60205	CCACGTGGCGGCCCATCCGCCCGTCCAACTGACCTAACCCGG
+Chs-unit 1 m1	Zea mays	part of a light responsive element	Chs-unit 1 module 1	
+	site	part of the chs-Unit 1 motif involved with light responsiveness	X60205	ACCTAACCCGG
+Chs-unit 1 m2	Zea mays	part of a light responsive element	Chs-unit 1 module 2	
+	site	part of the chs-Unit 1 motif involved with light responsiveness	X60205	CCATCCGCCCGTCCAAC
+Endosperm-box	Zea mays	cis-acting regulatory element involved in endosperm regulation		
+	site	regulation specific for endosperm	X54212	TGGAAGGTTAGTATGATGACATG
+	site	regulation specific to the endosperm	X54212	TTGGATGTTAGTGGGATGACATG
+	consensus	regulation specific for endosperm	seeds	TGTAAAG(G/T)TANTGNGATGNNCATG
+RbcS-CMA7a	Zea mays	part of a light responsive element	RbcS Conserved DNA Module Array 7 a	
+	site	part of the rbcS conserved module array (rbcS-CMA7) involved in light responsiveness.	U09743	GGCGATAAGG
+RbcS-CMA7c	Zea mays	part of a light responsive element	RbcS Conserved DNA Module Array 7 c	
+	site	part of the rbcS conserved DNA module array (rbcS-CMA7) involved in light responsiveness	U09743	ACGCGACATGTGGTGGCGGA
