@@ -102,7 +102,7 @@ def importNodes(server, networkid, Nodes):
 
 def setNodeType(x):
     '''
-    set node type
+    set node type!
     '''
     if x <= 0.05:
         if x <= 0.001:
